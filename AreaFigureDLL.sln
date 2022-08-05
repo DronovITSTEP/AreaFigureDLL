@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaFigureDLL", "AreaFigureDLL\AreaFigureDLL.csproj", "{9FC3FA9D-CFA5-4E02-95C0-BFFC41E38A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArea", "TestArea\TestArea.csproj", "{DE259897-FB33-4AAB-A371-F0EDEA0CA8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC3FA9D-CFA5-4E02-95C0-BFFC41E38A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC3FA9D-CFA5-4E02-95C0-BFFC41E38A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC3FA9D-CFA5-4E02-95C0-BFFC41E38A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC3FA9D-CFA5-4E02-95C0-BFFC41E38A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE259897-FB33-4AAB-A371-F0EDEA0CA8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE259897-FB33-4AAB-A371-F0EDEA0CA8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE259897-FB33-4AAB-A371-F0EDEA0CA8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE259897-FB33-4AAB-A371-F0EDEA0CA8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A0E147-B75D-411D-8EAB-12091225FC58}
+	EndGlobalSection
+EndGlobal
